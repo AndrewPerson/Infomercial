@@ -1,0 +1,43 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "NCTSD",
+      "url": "board-2-NCTSD.png",
+      "newShot": false,
+      "lastEdited": 1617135704614,
+      "layers": {
+        "shot-generator": {
+          "url": "board-2-NCTSD-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-2-NCTSD-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-2-NCTSD-fill.png"
+        },
+        "tone": {
+          "url": "board-2-NCTSD-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-NCTSD-pencil.png"
+        },
+        "ink": {
+          "url": "board-2-NCTSD-ink.png"
+        },
+        "notes": {
+          "url": "board-2-NCTSD-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 22235.021994677947
+    }
+  ]
+}
